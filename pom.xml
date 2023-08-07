@@ -1282,7 +1282,7 @@
          bundles a version of JCTools which was built using
          Java8 which could potentially break our Java7 compat -->
     <netty.version>4.0.50.Final</netty.version>
-    <netty.hadoop.version>3.6.2.Final</netty.hadoop.version>
+    <netty.hadoop.version>3.9.8.Final</netty.hadoop.version>
     <joni.version>2.1.2</joni.version>
     <jcodings.version>1.0.8</jcodings.version>
     <spy.version>2.11.6</spy.version>
